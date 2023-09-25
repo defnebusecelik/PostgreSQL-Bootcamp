@@ -1,1 +1,1 @@
-# PostreSQL-Bootcamp
+# PostgreSQL-Bootcamp
