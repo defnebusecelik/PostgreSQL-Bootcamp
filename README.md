@@ -30,3 +30,22 @@
 
 #### Module 4: Modifying Data in the tables
 
+• [Insert a data into table](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%204/insert_a_data_into_table.sql)
+
+• [Insert multiple records into table](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%204/insert_multiple_records.sql)
+
+• [Insert a data with quotes](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%204/insert_data_quotes.sql)
+
+• [Returning to get info on added rows](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%204/returning_info.sql) 
+
+• [Update data](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%204/update_data.sql)
+
+• [Returning updated row](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%204/returning_updated.sql)
+
+• [Update all records](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%204/update_all.sql)
+
+• [Delete data from a table](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%204/delete_records.sql)
+
+• [Using Upsert](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%204/using_upsert.sql)
+
+#### Module 5: Querying Data
