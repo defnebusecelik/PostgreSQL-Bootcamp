@@ -49,3 +49,21 @@
 • [Using Upsert](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%204/using_upsert.sql)
 
 #### Module 5: Querying Data
+
+• [Select specific columns](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%205/select_specific_columns.sql)
+
+• [Adding aliases to columns in a table](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%205/adding_alias.sql)
+
+• [Assigning column alias](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%205/column_alias.sql)
+
+• [Using order by to sort records](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%205/order_by_to_sort.sql)
+
+• [Using order by with alias](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%205/order_by_with_alias.sql)
+
+• [Using order by to sort by expressions](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%205/oder_by_with_expressions_columns.sql)
+
+• [Using order by with null values](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%205/order_by_with_null.sql)
+
+• [Select distinct values](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%205/distinct_values.sql)
+
+#### Module 6: Filtering Data
