@@ -67,3 +67,30 @@
 • [Select distinct values](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%205/distinct_values.sql)
 
 #### Module 6: Filtering Data
+
+• [Using operators, AND operator](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%206/using_operators.sql)
+
+• [OR operator](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%206/or_operator.sql)
+
+• [Combining operators](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%206/combining_operators.sql)
+
+• [Using Where](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%206/using_where.sql)
+
+• [Alias with Where](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%206/alias_with_where.sql)
+
+• [Using LIMIT and OFFSET](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%206/using_limit.sql)
+
+• [Using FETCH](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%206/using_fetch.sql)
+
+• [Using IN, NOT IN](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%206/using%20in.sql)
+
+• [Using BETWEEN, NOT BETWEEN](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%206/using%20between.sql)
+
+• [Using LIKE](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%206/using%20like.sql)
+
+• [Using IS NULL, IS NOT NULL](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%206/using%20is%20null.sql)
+
+• [Concatenation techniques](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%206/concatenate.sql)
+
+#### Module 7: Data Types
+
