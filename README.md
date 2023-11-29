@@ -94,3 +94,16 @@
 
 #### Module 7: Data Types
 
+• [Booelan Data Type](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%207/boolean%20data%20type.sql)
+
+• 
+
+•
+
+•
+
+•
+
+•
+
+•
