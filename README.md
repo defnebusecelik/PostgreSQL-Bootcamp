@@ -98,11 +98,19 @@
 
 • [Characters Data Type](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%207/characters%20data%20type.sql)
 
+• [Numbers Data Type](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%207/numeric%20data%20type.sql)
+
+• [Decimal Data Type](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%207/decimal%20data%20dytpe.sql)
+
+• [Date Data Type](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%207/date%20data%20type.sql)
+
+• [Time Data Type](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%207/time%20data%20type.sql)
+
+• [Timestamp Data Type](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%207/timestamp%20data%20type.sql)
+
+• [UUID Data Type](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%207/uuid%20data%20type.sql)
+
 • 
-
-•
-
-•
 
 •
 
