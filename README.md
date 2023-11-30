@@ -96,9 +96,9 @@
 
 • [Boolean Data Type](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%207/boolean%20data%20type.sql)
 
-• 
+• [Characters Data Type](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%207/characters%20data%20type.sql)
 
-•
+• 
 
 •
 
