@@ -110,8 +110,8 @@
 
 • [UUID Data Type](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%207/uuid%20data%20type.sql)
 
+• [Array Data Type](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%207/array%20data%20type.sql)
+
+• [Hstore Data Type](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%207/hstore.sql)
+
 • 
-
-•
-
-•
