@@ -118,4 +118,12 @@
 
 #### Module 8: Modifying Table Structures
 
+• [Create database](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%208/create_database.sql)
 
+• [Adding columns](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%208/adding_columns.sql)
+
+• 
+
+• 
+
+• 
