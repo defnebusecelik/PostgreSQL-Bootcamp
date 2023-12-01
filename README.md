@@ -114,4 +114,8 @@
 
 • [Hstore Data Type](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%207/hstore.sql)
 
-• 
+• [Network Address Data Type](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%207/network.sql)
+
+#### Module 8: Modifying Table Structures
+
+
