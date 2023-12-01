@@ -122,8 +122,6 @@
 
 • [Adding columns](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%208/adding_columns.sql)
 
-• 
-
-• 
+• [Modify table structures](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%208/modify.sql)
 
 • 
