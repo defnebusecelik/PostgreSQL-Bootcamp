@@ -124,4 +124,14 @@
 
 • [Modify table structures](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%208/modify.sql)
 
-• 
+• [Add constraints](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%208/constraint.sql)
+
+#### Module 9: Data Type Conversions
+
+•
+
+•
+
+•
+
+•
