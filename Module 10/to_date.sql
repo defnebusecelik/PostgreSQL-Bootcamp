@@ -1,0 +1,7 @@
+--to_date() function
+
+SELECT TO_DATE('2020/10/22', 'YYYY/MM/DD'); --"2020-10-22"
+
+SELECT TO_DATE('022199','MMDDYY'); --"1999-02-21"
+
+SELECT TO_DATE('March 07,2019','Month DD,YYYY'); --"2019-03-07"
