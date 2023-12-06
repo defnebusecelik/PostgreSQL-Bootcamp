@@ -128,10 +128,22 @@
 
 #### Module 9: Data Type Conversions
 
-•
+• [Data type conversions](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%209/datatype.sql)
+
+• [Using CAST](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%209/using_cast.sql)
+
+• [Implicit to explicit conversion](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%209/implicit_to_explicit.sql)
+
+• [Table data conversion](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%209/table_data_conversion.sql)
+
+#### Module 10: Conversion Functions
 
 •
 
 •
 
 •
+
+•
+
+
