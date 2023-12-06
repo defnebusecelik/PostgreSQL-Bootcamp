@@ -138,6 +138,22 @@
 
 #### Module 10: Conversion Functions
 
+• [to_char function](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%2010/to_char.sql)
+
+• [to_number function](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%2010/to_number.sql)
+
+• [to_date function](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%2010/to_date.sql)
+
+• [to_timestamp function](https://github.com/defnebusecelik/PostgreSQL-Bootcamp/blob/main/Module%2010/to_timestamp.sql)
+
+#### Module 11: User-Defined Data Types
+
+•
+
+•
+
+•
+
 •
 
 •
@@ -146,4 +162,9 @@
 
 •
 
+•
+
+•
+
+•
 
